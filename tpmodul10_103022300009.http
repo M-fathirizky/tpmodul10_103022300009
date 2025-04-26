@@ -1,0 +1,6 @@
+﻿@tpmodul10_103022300009_HostAddress = https://localhost:7193
+
+GET {{tpmodul10_103022300009_HostAddress}}/api/mahasiswa
+Accept: application/json
+
+###
